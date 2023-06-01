@@ -1,0 +1,1 @@
+el --output lo que hace es crea un archivo y con el comando se puede especificar la ruta donde se quiere crear en caso de que no se desee que se cree en la misma carpeta. Si se omite el --output se crea en la carpeta actual. 
